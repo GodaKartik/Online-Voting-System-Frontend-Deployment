@@ -113,10 +113,7 @@ function SignUp() {
         </form>
         <p>Have an account? </p>
         <button className="border border-black rounded-sm mx-2 p-1 hover:text-white hover:bg-black">
-          <a href="/voterlogin">Login as Voter</a>
-        </button>
-        <button className="border border-black rounded-sm mx-2 p-1 hover:text-white hover:bg-black">
-          <a href="/adminlogin">Login as Admin</a>
+          <a href="/login">Login</a>
         </button>
       </center>
     </div>
